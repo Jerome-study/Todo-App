@@ -6,7 +6,7 @@ let todos =[
     
 ]
 
-console.log('s')
+
 
 
 render ()
